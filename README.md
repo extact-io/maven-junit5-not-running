@@ -1,0 +1,1 @@
+# maven-junit5-not-running
