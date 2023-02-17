@@ -1,4 +1,4 @@
-# openliberty-devcontainer
+# maven-junit5-not-running
 > 豆蔵デベロッパーサイトのブログ記事で利用しているサンプルアプリ
 
 ## 利用している記事
